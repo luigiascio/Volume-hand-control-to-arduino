@@ -32,16 +32,3 @@ class ArduinoController:
             print("Connessione seriale chiusa.")
         else:
             print("Nessuna connessione seriale da chiudere.")
-
-"""
-# Esempio di utilizzo:
-if __name__ == "__main__":
-    arduino = ArduinoController('COM3', 9600)  # Sostituisci 'COM3' con la porta seriale corretta
-    arduino.connect()
-    
-    # Esempio di invio del valore seriale
-    valore_da_inviare = 75
-    arduino.send_value(valore_da_inviare)
-    
-    arduino.disconnect()
-"""
