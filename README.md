@@ -1,8 +1,11 @@
 # Volume-hand-control-to-arduino
 
-[![Video Link](insert-video-link-here.png)](insert-video-link-here) <!-- Insert your video link here -->
 
-TThis project is inspired by a [specific video](https://www.youtube.com/watch?v=9iEPzbG-xLE&list=PLMoSUbG1Q_r8jFS04rot-3NzidnV54Z2q&index=1&t=1681s), and it involves hand tracking using the MediaPipe library to control your system's volume based on the distance between your index finger and thumb. Additionally, we've integrated an Arduino board to control LEDs based on the volume level. The project utilizes the MediaPipe, PySerial, and PyCaw libraries.
+
+https://github.com/luigiascio/Volume-hand-control-to-arduino/assets/129185057/073d8a66-fd7b-4001-a3d3-b3867d47ba89
+
+
+This project is inspired by a [specific video](https://www.youtube.com/watch?v=9iEPzbG-xLE&list=PLMoSUbG1Q_r8jFS04rot-3NzidnV54Z2q&index=1&t=1681s), and it involves hand tracking using the MediaPipe library to control your system's volume based on the distance between your index finger and thumb. Additionally, we've integrated an Arduino board to control LEDs based on the volume level. The project utilizes the MediaPipe, PySerial, and PyCaw libraries.
 
 ## Introduction
 
